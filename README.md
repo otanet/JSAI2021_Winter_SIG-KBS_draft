@@ -5,6 +5,7 @@ JSAI2021_Winter_SIG-KBS_draft
 
 合同研究会2021
 2日目：2021年11月27日（土）
+https://www.ai-gakkai.or.jp/sigconf/sigconf2021/programs/#kbs
 
 知識ベースシステム研究会 (SIG-KBS)
 テーマ：知識表現・知識獲得とその応用
